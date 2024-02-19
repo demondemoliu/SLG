@@ -5,16 +5,20 @@ This repository contains the PyTorch implementation of:
 
 Adaptive cervical cell segmentation based on local and global dependence
 
+![ScreenShot](/images/framework.jpg)
+
 ##  Requirements
 
-* torch
-* torchvision 
+* Pytorch
+* Torchvision 
 * tqdm
-* opencv
 * scipy
 * skimage
 * PIL
 * numpy
+
+## Datasets
+* [CX22](https://github.com/LGQ330/Cx22)
 
 ##  Usage
 
@@ -44,6 +48,7 @@ It will be provided soon:
 }
 
 
+## References 
 
-
+* [Relation Networks](https://github.com/milesial/Pytorch-UNet)
 
