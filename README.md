@@ -19,7 +19,7 @@ Adaptive cervical cell segmentation based on local and global dependence
 
 ## Datasets
 * [CX22](https://github.com/LGQ330/Cx22)
-
+#### Data Format
   * datas
     * -train
       * --images
