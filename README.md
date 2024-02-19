@@ -5,7 +5,7 @@ This repository contains the PyTorch implementation of:
 
 Adaptive cervical cell segmentation based on local and global dependence
 
-![ScreenShot](/framework.jpg)
+![ScreenShot](/images/framework.jpg)
 
 ##  Requirements
 
