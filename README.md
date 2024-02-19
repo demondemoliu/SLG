@@ -24,7 +24,7 @@ Adaptive cervical cell segmentation based on local and global dependence
     * -train
       * --images
       * --masks
-    * -val
+    * -valid
       * --images
       * --masks
     * -test
